@@ -75,6 +75,3 @@ C. Inference (Accelerated DDIM)
 
    - Uses the configuration `DDIM_STEPS` and `DDIM_ETA` from config.py.
    - Saves the output as `final_ddim_faces.png`.
-
-
-==============================================================================
