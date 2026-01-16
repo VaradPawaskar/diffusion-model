@@ -1,8 +1,6 @@
-==============================================================================
 Diffusion Models from Scratch: Implement a minimal diffusion model
 Author: Varad Satish Pawaskar
 Date: 01.01.2026
-==============================================================================
 
 1. PROJECT OVERVIEW
 -------------------
